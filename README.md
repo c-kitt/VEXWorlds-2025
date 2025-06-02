@@ -1,4 +1,4 @@
-#727R's GEX Worlds Code
+# 727R's VEX Worlds Code
 
 - Team 727R's code for VEX Worlds '25 -- High Stakes
 
